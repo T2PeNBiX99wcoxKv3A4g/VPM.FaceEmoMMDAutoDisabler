@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.0.2](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/compare/0.0.1..0.0.2) - 2026-05-08
+
+### ⚙️ Miscellaneous Tasks
+
+- Bump package version to 0.0.2 - ([e018abe](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/commit/e018abed7845f9c43a61d9f22ffc0978b1abd784))
+- Fix incorrect parameter name in FaceEmoMMDAutoDisabler prefab - ([b3462bf](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/commit/b3462bf9084ecd769593adeabc9eb395f0da0528))
+
+### Action
+
+- Update `CHANGELOG.md` - ([8435f63](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/commit/8435f63103433d6ee835f4fe87e843cfe4dc6fd2))
+
+## New Contributors ❤️
+
+* @github-actions[bot] made their first contribution
+
 ## [0.0.1] - 2026-05-08
 
 ### ⛰️  Features
