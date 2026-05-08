@@ -1,0 +1,22 @@
+{
+  "name": "io.github.ykysnk.face-emo-mmd-auto-disabler",
+  "displayName": "FaceEmo MMD Auto Disabler",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "Automatic disable FaceEmo when MMD is playing.",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.10.3",
+    "jp.suzuryg.face-emo": "1.7.0"
+  },
+  "author": {
+    "name": "yukiyosanako / ゆきよさなこ",
+    "email": "github.qszdy@aleeas.com",
+    "url": "https://github.com/T2PeNBiX99wcoxKv3A4g"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "changelogUrl": "https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/blob/main/CHANGELOG.md",
+  "license": "MIT"
+}
