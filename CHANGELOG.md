@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.0.3](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/compare/0.0.2..0.0.3) - 2026-05-08
+
+### 🐛 Bug Fixes
+
+- Fix naming inconsistencies in FaceEmoMMDAutoDisabler controller file - ([8045de2](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/commit/8045de25dfb025f428a010a00260683600fa1e50))
+
+### ⚙️ Miscellaneous Tasks
+
+- Bump package version to 0.0.3 - ([e83e7f6](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/commit/e83e7f6415abd37fb400249d86d5e0f65bca893d))
+- Update package dependencies to latest versions in manifest and lock files - ([98edc06](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/commit/98edc06fb3d2398813158945e253cabcf17e504e))
+
+### Action
+
+- Update `CHANGELOG.md` - ([7f0c2ec](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/commit/7f0c2ecfbbe317ea2136132f1840c2762f65dc29))
+
+
 ## [0.0.2](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.FaceEmoMMDAutoDisabler/compare/0.0.1..0.0.2) - 2026-05-08
 
 ### ⚙️ Miscellaneous Tasks
